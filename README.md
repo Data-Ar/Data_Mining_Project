@@ -50,8 +50,7 @@ No additional preprocessing is required; the loader normalises/augments on the f
 ---
 
 ## Exploratory Figures
-
-
+![Exploratory Figures](fig/dataset_characteristics.png)
 
 ## Quickstart
 
