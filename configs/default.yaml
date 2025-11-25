@@ -1,0 +1,21 @@
+arch: resnet50
+root_dir: ./ODIR_Data
+img_size: 224
+batch_size: 32
+epochs: 30
+lr: 0.0001
+weight_decay: 0.00001
+num_workers: 4
+out_dir: ./artifacts
+csv_path: ./artifacts/dr_results.csv
+use_focal_loss: true
+use_class_weights: true
+early_stopping_patience: 10
+use_mixed_precision: true
+use_advanced_aug: true
+plot_results: true
+extra_arches:
+  - densenet121
+  - efficientnet_b0
+  - vit_b_16
+
