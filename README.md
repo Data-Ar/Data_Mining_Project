@@ -47,7 +47,8 @@ Each `.npz` file must include:
 
 No additional preprocessing is required; the loader normalises/augments on the fly. If your copy of ODIR uses different resolutions, update `img_size` in the config.
 
----
+## Results
+![Results](fig/backbone_auc_comparison.png)
 
 ## Exploratory Figures
 ![Exploratory Figures](fig/dataset_characteristics.png)
