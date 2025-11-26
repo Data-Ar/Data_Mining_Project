@@ -1,6 +1,6 @@
 # Diabetic Retinopathy Detection using Color Fundus Photos with Advanced Transfer Learning
 
-This reposiory is for an end-end reproducible training pipeline for detecting diabetic retinopathy (DR) from color fundus photographs in the Ocular Disease Intelligent Recognition (ODIR) dataset. The project utilizes advanced data augmentation techniques and fine-tuning of several backboone for DR detection task. The ODIR-5K dtatset used for this project has been customized to allow for a binary classification task.
+This reposiory is for an end-end reproducible training pipeline for detecting diabetic retinopathy (DR) from color fundus photographs in the Ocular Disease Intelligent Recognition (ODIR) dataset. The project utilizes advanced data augmentation techniques and fine-tuning of several backboone models for DR detection task. The ODIR-5K dtatset used for this project has been customized to allow for a binary classification task.
 
 ## Highlights
 
